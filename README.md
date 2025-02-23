@@ -1,6 +1,8 @@
 # This repository is my public repository of an existing project [SpeakingAI](https://kutaykoray.com/)
 This repository contains the source code for a fully operational project. Due to security and privacy considerations, the complete project—including API keys and workflow configurations cannot be shared publicly. Consequently, this repository focuses solely on the codebase, omitting sensitive information.
 
+**Note**: This project is fully developed, deployed, and managed by me. It runs on my private server with all security and privacy measures in place, ensuring a secure and efficient operation. (Since the server is located in my home, I occasionally turn it off, which may cause temporary accessibility issues.)
+
 # 👩‍🏫 Your AI friend, helps you practice on your speaking
 
 [![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react)](https://react.dev/)
